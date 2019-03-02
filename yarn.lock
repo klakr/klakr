@@ -2105,9 +2105,10 @@ prelude-ls@~1.1.2:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
 
-"prepare-commit-id@ssh://git@github.com:ljpengelen/prepare-commit-id.git":
+prepare-commit-id@^0.0.1:
   version "0.0.1"
-  resolved "ssh://git@github.com:ljpengelen/prepare-commit-id.git#1a20428a39d89c73afc9d5b7cb5f23ab738b0b66"
+  resolved "https://registry.yarnpkg.com/prepare-commit-id/-/prepare-commit-id-0.0.1.tgz#3ef4ee1e14eda269090a55950b945ae4bfc15108"
+  integrity sha512-Zf5sx/cTPudtxGThWC2vIrh3ME7qhsksWwOm3oGn5s/KJxyY8Cku8h1JC2M6NCJhIc7OwiLKvyUmtErvyrg+pQ==
 
 prettier-linter-helpers@^1.0.0:
   version "1.0.0"
