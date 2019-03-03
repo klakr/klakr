@@ -2100,10 +2100,10 @@ posix-character-classes@^0.1.0:
   resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-0.1.1.tgz#01eac0fe3b5af71a2a6c02feabb8c1fef7e00eab"
   integrity sha1-AerA/jta9xoqbAL+q7jB/vfgDqs=
 
-prefix-commit-message@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/prefix-commit-message/-/prefix-commit-message-0.0.1.tgz#4e46939e27c0efcf7c882835e9ed4741ad7a6f09"
-  integrity sha512-8H6vr4AilybAzYWzLwuj5X+YsJ+cSnvvCMABJ6DNyZwAzTypNZc3C77lrmZlMejTTgjBU8geaE/xpYB5cXH3vA==
+prefix-commit-message@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/prefix-commit-message/-/prefix-commit-message-1.0.0.tgz#aff1fc49c811efa9e88cd8df7ad5082395e61d88"
+  integrity sha512-DAUxzl2jH1NMZc+2uIek8Zm3M2x1KMVr04Qi488tEqIGQwsilXShEQsFG+lRuiYrOmECGUnhssjxl3dEdpwnXQ==
 
 prelude-ls@~1.1.2:
   version "1.1.2"
