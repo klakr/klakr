@@ -19,10 +19,7 @@
     }
   },
   "lint-staged": {
-    "*.js": [
-      "prettier --write",
-      "git add"
-    ]
+    "*.js": "eslint"
   },
   "devDependencies": {
     "chai": "^4.2.0",
